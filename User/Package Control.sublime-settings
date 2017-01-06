@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"DocBlockr_Python",
+		"Focus File on Sidebar",
+		"LiveReload",
+		"Monocyanide Colorscheme",
+		"Monokai Extended",
+		"Package Control",
+		"Python 3",
+		"Python Completions",
+		"RecentTabSort",
+		"Robot Framework Assistant",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"TabsExtra",
+		"Theme - Cyanide",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
